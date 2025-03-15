@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, I'm Chip</h1>
-<h3 align="center">a guy from vietnamese</h3>
+<h3 align="center">i do basic python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triisdang&label=ooo%20count!!&color=ff9500&style=flat" alt="triisdang" /> </p>
 
