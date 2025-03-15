@@ -5,7 +5,7 @@
 
 - 🔭 i’m currently working on [bath discord bot](https://github.com/triisdang/Baths-Project)
 
-- ⚡ Fun fact **i am dumb**
+- ⚡ Fun fact **i am gen alpha skbidi sigma rizz**
 
 
 <p align="left">
