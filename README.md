@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triisdang&label=ooo%20count!!&color=ff9500&style=flat" alt="triisdang" /> </p>
 
-- 🔭 i’m currently working on [bath discord bot](https://github.com/triisdang/Baths-Project)
+- 🔭 i’m currently **NOT** working on [bath discord bot](https://github.com/triisdang/Baths-Project)
 
 - ⚡ Fun fact **i am gen alpha skbidi sigma rizz**
 
