@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triisdang&label=ooo%20count!!&color=ff9500&style=flat" alt="triisdang" /> </p>
 
-- 🔭 i’m currently **NOT** working on [bath discord bot](https://github.com/triisdang/Baths-Project)
+- 🔭 i’m currently working on [Lution](https://github.com/Lutionhq/Lution)
 
-- ⚡ Fun fact **i am gen alpha skbidi sigma rizz**
+- ⚡ Fun fact **if you ``sudo rm -rf /``, u will get 100 mil robux!11!**
 
 
 <p align="left">
