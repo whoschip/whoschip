@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triisdang&label=ooo%20count!!&color=ff9500&style=flat" alt="triisdang" /> </p>
 
-- 🔭 i’m currently working on [Lution](https://github.com/Lutionhq/Lution)
+- 🔭 i’m currently working on [Lution](https://github.com/Wookhq/Lution)
 
 - ⚡ Fun fact **if you ``sudo rm -rf /``, u will get 100 mil robux!11!**
 
