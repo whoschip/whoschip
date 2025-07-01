@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact **if you ``sudo rm -rf /``, u will get 100 mil robux!11!**
 
+My discord : ``whoschip``
 
 <p align="left">
 </p>
