@@ -5,13 +5,21 @@
 
 - 🔭 i’m currently working on [Lution](https://github.com/Wookhq/Lution)
 
-- ⚡ Fun fact **if you ``sudo rm -rf /``, u will get 100 mil robux!11!**
+- ⚡ ``sudo rm -rf /``
 
-My discord : ``whoschip_``
 
 <p align="left">
 </p>
 
+----
+
+<p align="center">
+<a href="https://github.com/whoschip/">
+  <img align="center" src="https://lanyard.cnrad.dev/api/1317516380500922499?theme=dark&idleMessage=idk%20just%20chilling&bg=121212"/>
+</a>
+</p>
+
+----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
