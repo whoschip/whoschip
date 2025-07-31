@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋, I'm Chip</h1>
 <h3 align="center">i do basic python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=triisdang&label=ooo%20count!!&color=ff9500&style=flat" alt="triisdang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoschip&label=ooo%20count!!&color=ff9500&style=flat" alt="uh sigma guy" /> </p>
 
 - 🔭 i’m currently working on [Lution](https://github.com/Wookhq/Lution)
 
