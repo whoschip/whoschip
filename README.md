@@ -11,6 +11,7 @@
 <p align="left">
 </p>
 
+[![Anurag's GitHub stats](https://chipstats.vercel.app/api?username=whoschip&show_icons=true&theme=tokyonight&role=collaborator)](https://github.com/anuraghazra/github-readme-stats)
 ----
 
 <p align="center">
