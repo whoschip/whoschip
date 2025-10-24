@@ -29,5 +29,5 @@
 ![Static Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Static Badge](https://img.shields.io/badge/TypeShit%20%F0%9F%92%94-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Static Badge](https://img.shields.io/badge/Goonlang%20%F0%9F%92%94-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
