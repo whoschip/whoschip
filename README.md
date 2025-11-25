@@ -30,8 +30,8 @@ HF account : `https://huggingface.co/Chipieveryday`
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Static Badge](https://img.shields.io/badge/Goonlang%20%F0%9F%92%94-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+# mid
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 # not good
 ![Static Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Static Badge](https://img.shields.io/badge/TypeShit%20%F0%9F%92%94-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
