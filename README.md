@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://chipstats.vercel.app/api?username=whoschip&show_icons=true&theme=tokyonight&role=collaborator)](https://github.com/anuraghazra/github-readme-stats)
 
-HF account : `https://huggingface.co/Chipieveryday`
+HF account : `https://huggingface.co/TheresChip`
 
 ----
 
